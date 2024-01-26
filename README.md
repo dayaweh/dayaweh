@@ -1,6 +1,6 @@
 ### Welcome 👋
 
-<h1>Olá, eu me chamo Dã Yaweh!!!</h1>
+<h1>Hi!, i´m Dã Yaweh</h1>
 
 
  <div style = "display: inline-block">
@@ -17,5 +17,5 @@
      <img height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
  </div> 
   
-   ##
+   ## 
    
