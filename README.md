@@ -1,6 +1,6 @@
 ### Welcome 👋
 
-<h1>Hi!, i´m Dã Yaweh</h1>
+<h1 style = "background-color: blue">Hi!, i´m Dã Yaweh</h1>
 
 
  <div style = "display: inline-block">
@@ -11,8 +11,8 @@
 
   
   <div display="inline_block" padding-left="25">
-     <img height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-     <img height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+     <img height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+     <img height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" />
      <img height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
      <img height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
  </div> 
